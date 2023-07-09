@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+Tic Tac Toe Game
 
 This is a simple implementation of the Tic Tac Toe game in C++. It allows two players to play the game and determines the winner or if the game ends in a tie.
 
