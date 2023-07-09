@@ -1,0 +1,16 @@
+# Tic Tac Toe Game
+
+This is a simple implementation of the Tic Tac Toe game in C++. It allows two players to play the game and determines the winner or if the game ends in a tie.
+
+## Instructions
+
+1. Run the program.
+2. Enter the names of the two players when prompted.
+3. The game will display the Tic Tac Toe board.
+4. Players will take turns entering their moves by specifying the block number they want to mark.
+5. The game will check for winning conditions or a tie after each move.
+6. If a player wins, their name will be displayed as the winner.
+7. If the game ends in a tie, a tie message will be displayed.
+8. The program will exit after displaying the result.
+
+## Code
